@@ -1,0 +1,17 @@
+﻿Build started 3/28/2021 5:07:54 PM.
+     1>Project "D:\sd lab\Far Away From Home\Far Away From Home\Far Away From Home.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Far Away From Home.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Far Away From Home.vcxproj -> D:\sd lab\Far Away From Home\Debug\Far Away From Home.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Far Away From Home.unsuccessfulbuild".
+         Touching "Debug\Far Away From Home.lastbuildstate".
+     1>Done Building Project "D:\sd lab\Far Away From Home\Far Away From Home\Far Away From Home.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
